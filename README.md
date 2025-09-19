@@ -1,1 +1,3 @@
-# Comparaci-n-de-valores-globales
+# Comparación-de-valores-globales
+El método presenta todas las características del tratado anteriormente al analizar el sistema de cifras relativas por medio de porcentajes, ya que tiene su misma esencia, utilizándose en aquél la relación porcentual y en éste, la relación absoluta. Tal como en el caso mencionado, su rendimiento principal es para la representación gráfica y dentro de ésta, preferentemente aplicada al análisis dinámico, donde es un elemento eficaz en las demostraciones visuales.
+Existen diversas formas de representación gráfica, sólo libradas a la imaginación del responsable, pero que complementan simple y claramente la literatura sobre temas muchas veces áridos, pero que, en diversos tipos de informes, muy particularmente en las memorias de las empresas, aportan una buena fuente de información, sobre todo para aquellas personas alejadas de un conocimiento técnico al respecto.
